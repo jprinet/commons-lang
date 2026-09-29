@@ -5,7 +5,7 @@ maven-eclipse.xml
 build.properties
 site-content
 *~
-.mvn/
+.mvn/.develocity/
 
 # IntelliJ IDEA files
 .idea
